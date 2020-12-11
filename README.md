@@ -5,6 +5,7 @@ I am an Economics undergraduate student in University of Brasília, one of the b
 ### Projects
 
 **Projeto Data Science + Political Science:** 
+
 In this project, I begin by analyzing some political science data and then build an model predicting, always looking at the literature.
 
 ### Study Notes
