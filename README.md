@@ -1,14 +1,9 @@
 # Arthur Nunes Torres
 
-I am an Economics undergraduate student in University of Brasília, one of the best universities in Brazil. My interests and knowledge are wide, from Political Science to Data Science. I like Political Economy, Public Economics and Public Policy, always applying 
+Busco, por meio dos meus conhecimentos, combinar habilidades computacionais e quantitativas com conhecimentos sobre economia para buscar soluções modernas para questões de relevância econômica, política e social. Sou estudante de Economia na Universidade de Brasília e trabalho com análise de dados e análise de BI. Tenho interesse em áreas de microeconomia aplicada (Economia do Setor Público, Economia Política, Políticas Públicas e Organização Industrial), teoria dos jogos e métodos quatitativos (estatística, machine learning e ciência de dados).
 
-### Projects
+### Projetos
 
-**Projeto Data Science + Political Science:** 
+**Data Science + Ciência Política (título provisório)** 
 
-In this project, I begin by analyzing some political science data and then build an model predicting, always looking at the literature.
-
-### Study Notes
-
-**Introductory Econometrics in Python:** 
-In this project, I try to give an 
+Nesse projeto, pretendo utilizar manipulação de dados e aprendizado de máquinas para analisar dados políticos brasileiros
