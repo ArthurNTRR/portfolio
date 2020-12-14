@@ -7,3 +7,6 @@ Busco, por meio dos meus conhecimentos, combinar habilidades computacionais e qu
 **Data Science + Ciência Política (título provisório)** 
 
 Nesse projeto, pretendo utilizar manipulação de dados e aprendizado de máquinas para analisar dados políticos brasileiros
+
+
+[EM CONSTRUÇÃO]
